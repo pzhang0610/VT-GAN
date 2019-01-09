@@ -1,2 +1,4 @@
 # VT-GAN
-An implementation of VT-GAN for gait recognition
+An Pytorch implementation of VT-GAN for gait recognition
+
+## 
