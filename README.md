@@ -9,6 +9,9 @@ An Pytorch implementation of VT-GAN for gait recognition
 * logging
 * shutil
 
+## Dataset
+
+Download the CASIA gait dataset B from \url{http://www.cbsr.ia.ac.cn/english/Gait%20Databases.asp} and put it in directory './data'.
 ## Usage
 
 For training, run
