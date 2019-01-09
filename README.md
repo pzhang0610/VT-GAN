@@ -11,7 +11,7 @@ An Pytorch implementation of VT-GAN for gait recognition
 
 ## Dataset
 
-Download the CASIA gait dataset B from \url{http://www.cbsr.ia.ac.cn/english/Gait%20Databases.asp} and put it in directory './data'.
+Download the CASIA gait dataset B from {http://www.cbsr.ia.ac.cn/english/Gait%20Databases.asp} and put it in directory './data'.
 ## Usage
 
 For training, run
@@ -26,3 +26,5 @@ For generation, run
 python run_triplet_block.py --batch_size 1
 ```
 ## Examples
+
+Attached are some examples
