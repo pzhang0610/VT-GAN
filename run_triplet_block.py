@@ -8,7 +8,7 @@ parser = argparse.ArgumentParser()
 
 # model configuration.
 # data related
-parser.add_argument('--dataset_dir', dest='dataset_dir', default='../../gaitGAN/gei', help='root path to CASIA(B) dataset')
+parser.add_argument('--dataset_dir', dest='dataset_dir', default='./data/gei', help='root path to CASIA(B) dataset')
 parser.add_argument('--image_size', dest='image_size', type=int, default=64, help='size of input image')
 parser.add_argument('--cond_dim', dest='cond_dim', type=int, default=11, help='length of condition vector')
 # parser.add_argument('--st_dim', dest='st_dim', type=int, default=3, help='length of condition vector')
