@@ -1,5 +1,7 @@
 # VT-GAN
-An Pytorch implementation of VT-GAN for gait recognition
+An Pytorch implementation of VT-GAN for gait recognition. The framework is as follow,
+
+![Framework of VT-GAN](./model/framework.png)
 
 ## Requirements
 * pytorch v1.0.0
