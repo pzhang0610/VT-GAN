@@ -3,6 +3,7 @@ An Pytorch implementation of VT-GAN for gait recognition. The framework is as fo
 
 ![Framework of VT-GAN](./model/framework.png){:height="50%" width="50%"}
 
+<img src="./model/framework.png" width = "300" height = "200" alt="Framework of VT-GAN" align=center />
 ## Requirements
 * pytorch v1.0.0
 * PIL
