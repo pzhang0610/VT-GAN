@@ -31,5 +31,5 @@ python run_triplet_block.py --batch_size 1
 
 Attached are some examples, the first column are inputs, the first row are references, and the bottom 11 x 11 are generated gaits,
 
-<img src="./sample/sample.png" width = "300" height = "300" alt="An example of generated gaits" align=center />
+<img src="./sample/sample.png" width = "500" height = "500" alt="An example of generated gaits" align=center />
 
