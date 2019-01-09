@@ -1,7 +1,7 @@
 # VT-GAN
 An Pytorch implementation of VT-GAN for gait recognition. The framework is as follow,
 
-<img src="./model/framework.png" width = "500" height = "300" alt="Framework of VT-GAN" align=center />
+<img src="./model/framework.png" width = "600" height = "300" alt="Framework of VT-GAN" align=center />
 
 ## Requirements
 * pytorch v1.0.0
@@ -29,4 +29,7 @@ python run_triplet_block.py --batch_size 1
 ```
 ## Examples
 
-Attached are some examples
+Attached are some examples, the first column are inputs, the first row are references, and the bottom 11 x 11 are generated gaits,
+
+<img src="./sample/sample.png" width = "300" height = "300" alt="An example of generated gaits" align=center />
+
